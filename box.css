@@ -1,0 +1,16 @@
+h3{
+    color: rgb(14, 246, 57);
+}
+.book{
+    border: 12px solid tomato;
+    padding: 16px;
+    margin: 5px;
+    width: 60%;
+    background-image: url(images/download.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+#invest{
+    border: 3px solid black;
+    display:inline;
+}
