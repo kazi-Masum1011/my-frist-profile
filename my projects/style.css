@@ -1,0 +1,14 @@
+p{
+    color: rebeccapurple;
+}
+.frist_div{
+    background-color: black;
+    border: 2px solid red;
+}
+h3{
+    color: red;
+}
+*{
+    padding-left: 10px;
+    text-align: center;
+}
